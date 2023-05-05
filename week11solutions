@@ -42,4 +42,4 @@ int main()
             int x, y;
             scanf("%d %d", &x, &y);
             printf("%d\n", *(*(total_number_of_pages + x) + y));
-        
+        }}}
